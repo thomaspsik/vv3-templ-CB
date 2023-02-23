@@ -1,13 +1,14 @@
 # vv3-templ-CB
 
-This template should help get you started developing with Vue 3 in Vite. It uses Composition API, Bootstrap and Font Awesome.
+This template should help get you started developing with Vue 3 in Vite. It uses Composition API, Axios, Bootstrap and Font Awesome.
 
 Usage:
 ```
-npx degit robert-baumgartner/vv3-template-CB your-project
+npx degit thomaspsik/vv3-templ-CB your-project
 ```
 
 07.05.2022: Fixed ESLint top level await warning
+23.02.2023: Added axios module
 
 ## Recommended IDE Setup
 
